@@ -1,8 +1,7 @@
 ---
-layout: page
-title: About the Diocese
+title: About
 icon: fas fa-info-circle
-order: 10
+order: 2
 ---
 
 ## The Roman Catholic Diocese of Kalookan
