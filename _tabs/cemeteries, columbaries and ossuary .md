@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cemeteries
+title: Cemeteries, Columbaries & Ossuaries
 icon: fas fa-monument
 order: 9
 ---
