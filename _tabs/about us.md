@@ -2,7 +2,7 @@
 layout: page
 title: About
 icon: fas fa-info-circle
-order: 12
+order: 11
 ---
 
 ## The Roman Catholic Diocese of Kalookan
